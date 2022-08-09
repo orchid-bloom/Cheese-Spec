@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.social_media_url = 'https://www.linkedin.com/in/konstantinkabanov'
   s.authors = { 'Konstantin Kabanov' => 'fever9@gmail.com' }
 
-  s.source = { :git => 'https://github.com/konkab/AlamofireNetworkActivityLogger.git', :tag => s.version }
+  s.source = { :git => 'https://github.com/orchid-bloom/AlamofireNetworkActivityLogger.git', :tag => s.version }
   s.source_files = 'Source/*.swift'
   s.swift_versions = ['5.0']
 
